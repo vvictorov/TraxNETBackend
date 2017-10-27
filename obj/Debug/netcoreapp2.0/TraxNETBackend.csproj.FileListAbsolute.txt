@@ -1,0 +1,11 @@
+D:\other-projects\TraxNETBackend\TraxNETBackend\bin\Debug\netcoreapp2.0\TraxNETBackend.deps.json
+D:\other-projects\TraxNETBackend\TraxNETBackend\bin\Debug\netcoreapp2.0\TraxNETBackend.runtimeconfig.json
+D:\other-projects\TraxNETBackend\TraxNETBackend\bin\Debug\netcoreapp2.0\TraxNETBackend.runtimeconfig.dev.json
+D:\other-projects\TraxNETBackend\TraxNETBackend\bin\Debug\netcoreapp2.0\TraxNETBackend.dll
+D:\other-projects\TraxNETBackend\TraxNETBackend\bin\Debug\netcoreapp2.0\TraxNETBackend.pdb
+D:\other-projects\TraxNETBackend\TraxNETBackend\obj\Debug\netcoreapp2.0\TraxNETBackend.csprojResolveAssemblyReference.cache
+D:\other-projects\TraxNETBackend\TraxNETBackend\obj\Debug\netcoreapp2.0\TraxNETBackend.csproj.CoreCompileInputs.cache
+D:\other-projects\TraxNETBackend\TraxNETBackend\obj\Debug\netcoreapp2.0\TraxNETBackend.AssemblyInfoInputs.cache
+D:\other-projects\TraxNETBackend\TraxNETBackend\obj\Debug\netcoreapp2.0\TraxNETBackend.AssemblyInfo.cs
+D:\other-projects\TraxNETBackend\TraxNETBackend\obj\Debug\netcoreapp2.0\TraxNETBackend.dll
+D:\other-projects\TraxNETBackend\TraxNETBackend\obj\Debug\netcoreapp2.0\TraxNETBackend.pdb
